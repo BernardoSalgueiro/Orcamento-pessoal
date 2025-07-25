@@ -1,5 +1,8 @@
 💸 Orçamento Pessoal
-Orçamento Pessoal é um website desenvolvido com HTML5, CSS3 e JavaScript, com o objetivo de ajudar usuários a registrarem e consultarem suas despesas de forma simples, organizada e prática. O projeto é totalmente funcional e roda direto no navegador, sem necessidade de backend.
+
+Orçamento Pessoal é um website desenvolvido com HTML5, CSS3 e JavaScript, 
+com o objetivo de ajudar usuários a registrarem e consultarem suas despesas de forma simples, 
+organizada e prática. O projeto é totalmente funcional e roda direto no navegador, sem necessidade de backend.
 
 🧩 Funcionalidades:
 
