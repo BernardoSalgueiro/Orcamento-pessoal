@@ -9,11 +9,13 @@ Orçamento Pessoal é um website desenvolvido com HTML5, CSS3 e JavaScript, com 
 - Tipo (alimentação, transporte, lazer, etc.)
 - Descrição
 - Valor
+
 🔹 Consulta de Despesas:
   Na tela consulta.html, todas as despesas cadastradas são listadas e é possível:
   - Filtrar por data, tipo, descrição ou valor
   - Remover despesas individualmente
   - Visualizar dados de forma organizada em uma tabela
+
 🔹 Armazenamento Local:
   - Todas as despesas são salvas no navegador utilizando o localStorage, o que permite manter os dados mesmo após recarregar a página ou fechar o navegador.
 
